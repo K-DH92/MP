@@ -25,5 +25,3 @@
 
 ![image](https://github.com/K-DH92/MP/assets/173631326/39d800e2-55da-4b73-abf1-6de98a90cc7b)
 
-
-### 프로젝트 소개
